@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>GraphQL.Net</id>
+    <version>0.3.5</version>
+    <title>GraphQL.Net</title>
+    <authors>Chad Kimes</authors>
+    <owners>Chad Kimes</owners>
+    <licenseUrl>https://github.com/ckimes89/graphql-net/blob/master/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/ckimes89/graphql-net</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>An implementation of GraphQL for .NET and IQueryable</description>
+    <summary />
+    <copyright>Copyright 2016</copyright>
+    <tags>graphql graph ql iqueryable</tags>
+    <dependencies>
+      <dependency id="FParsec" version="1.0.2" />
+      <dependency id="FParsec-Pipes" version="0.3.1" />
+      <dependency id="FSharp.Core" version="4.0.0.1" />
+    </dependencies>
+  </metadata>
+</package>
